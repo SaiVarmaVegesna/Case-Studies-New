@@ -1,0 +1,24 @@
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.dll.config
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.dll
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.pdb
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\EntityFramework.dll
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\EntityFramework.xml
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CopyComplete
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.dll
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.pdb
+C:\Users\npinnamaraju\OneDrive - DXC Production\Desktop\mvc\product\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csprojAssemblyReference.cache
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.dll.config
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.dll
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\ProductDataAccessLib.pdb
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\EntityFramework.dll
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\EntityFramework.xml
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csprojAssemblyReference.cache
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.csproj.CopyComplete
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.dll
+C:\Users\svegesna5\OneDrive - DXC Production\Desktop\DXC FILES\CASE STUDY\CS_ProductCategory_MVC-master\ProductDataAccessLib\obj\Debug\ProductDataAccessLib.pdb

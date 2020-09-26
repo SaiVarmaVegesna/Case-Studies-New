@@ -1,0 +1,9 @@
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\bin\Debug\OnlineParentDAL.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\bin\Debug\OnlineParentDAL.pdb
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\bin\Debug\OnlineParentEntities.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\bin\Debug\OnlineParentEntities.pdb
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\obj\Debug\OnlineParentDAL.csprojAssemblyReference.cache
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\obj\Debug\OnlineParentDAL.csproj.CoreCompileInputs.cache
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\obj\Debug\OnlineParentDAL.csproj.CopyComplete
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\obj\Debug\OnlineParentDAL.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentDAL\obj\Debug\OnlineParentDAL.pdb

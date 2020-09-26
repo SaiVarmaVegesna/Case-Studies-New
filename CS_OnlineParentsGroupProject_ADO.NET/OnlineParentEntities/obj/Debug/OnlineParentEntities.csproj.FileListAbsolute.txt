@@ -1,0 +1,6 @@
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentEntities\bin\Debug\OnlineParentEntities.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentEntities\bin\Debug\OnlineParentEntities.pdb
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentEntities\obj\Debug\OnlineParentEntities.csprojAssemblyReference.cache
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentEntities\obj\Debug\OnlineParentEntities.csproj.CoreCompileInputs.cache
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentEntities\obj\Debug\OnlineParentEntities.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\OnlineParentEntities\obj\Debug\OnlineParentEntities.pdb

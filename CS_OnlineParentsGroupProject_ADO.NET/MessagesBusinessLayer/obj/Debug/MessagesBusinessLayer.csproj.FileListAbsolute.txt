@@ -1,0 +1,11 @@
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\bin\Debug\MessagesBusinessLayer.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\bin\Debug\MessagesBusinessLayer.pdb
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\bin\Debug\OnlineParentDAL.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\bin\Debug\OnlineParentEntities.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\bin\Debug\OnlineParentDAL.pdb
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\bin\Debug\OnlineParentEntities.pdb
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\obj\Debug\MessagesBusinessLayer.csprojAssemblyReference.cache
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\obj\Debug\MessagesBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\obj\Debug\MessagesBusinessLayer.csproj.CopyComplete
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\obj\Debug\MessagesBusinessLayer.dll
+C:\Users\t32\source\repos\OnlineParentsGroupProject\MessagesBusinessLayer\obj\Debug\MessagesBusinessLayer.pdb
